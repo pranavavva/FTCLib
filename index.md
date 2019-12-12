@@ -6,6 +6,6 @@ If you would like to contribute to the FTCLib project, please read the contribut
 ## Quick Links
 
 - [GitHub Repository](https://github.com/FTCLib/FTCLib)
-- [Code of Conduct](/code_of_conduct.html)
-- [Contributing Guidelines](CONTRIBUTING.html)
-- [Readme](readme.html)
+- [Code of Conduct](/code_of_conduct.md)
+- [Contributing Guidelines](/CONTRIBUTING.md)
+- [Readme](/readme.md)

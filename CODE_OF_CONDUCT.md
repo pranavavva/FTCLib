@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Contributing Guidelines"
+permalink: /code-of-conduct
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

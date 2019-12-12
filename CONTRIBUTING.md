@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Contributing Guidelines"
+permalink: /contributing
+---
+
 # Contributing
 Welcome to the FTCLib project! We hope we have something useful for you!
 

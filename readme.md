@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Readme"
+permalink: /readme
+---
 
 ## FTCLib
 

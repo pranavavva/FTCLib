@@ -1,9 +1,5 @@
-*.iml
-.gradle
-/local.properties
-/.idea
-/tempMergeFolder
-.DS_Store
-/build
-/captures
-.externalNativeBuild
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
